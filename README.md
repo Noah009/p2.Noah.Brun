@@ -9,4 +9,12 @@ The design of the Mirror is minimalist as to reflect current trends of reducing 
 <br> </br>
 ![IMG_8600](https://user-images.githubusercontent.com/61167088/200124517-b2b864fd-2839-48a4-b033-2b490250225b.png)
 <br> </br>
-The Sketch shows a simple layout similar to apps on a smartphone. The user will look into the mirror 
+A Mirror reflects any person or object and to simulate relfection the text editor, processing, will be used to still show either the object or person standing in front of the mirror. Furthermore, the display of information may cause contrast problems, so the mirror will "fog" up by using the tint() while still showing a "reflection" in processing.
+<br> </br>
+The Sketch is simplistic, reducing icons to basic geometric shapes so the user can see and immediately understand it's purpose. Some General information includes a calender, emails, weather, health, and a clock. Whenever a user clicks on one of the buttons, excluding the clock, a window will pop up displaying the information with the mirror being tinted to help the contrast between text and background. 
+
+<br> </br> <br> </br>
+# Mirror Implementation
+Note: The mirrow is soley focused on the design aspect rather than pratical application, as such dates, weather, health, etc. should not be taken as accurate information.
+
+<br> </br>
