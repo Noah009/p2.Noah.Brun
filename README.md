@@ -18,4 +18,6 @@ The Sketch is simplistic, reducing icons to basic geometric shapes so the user c
 Note: The mirror is soley focused on the design aspect rather than pratical application, as such dates, weather, health, etc. should not be taken as accurate information.
 
 <br> </br>
+![image](https://user-images.githubusercontent.com/61167088/200420920-38414e7d-5087-44e2-bd6d-7a7e187a57fa.png)
+<br> </br>
 ![IMG_8605 (1) (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/200420378-1fc56b3c-e6f5-4fa2-aa57-84e7ad1c7f4e.gif)
