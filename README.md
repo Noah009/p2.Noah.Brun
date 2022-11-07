@@ -15,6 +15,6 @@ The Sketch is simplistic, reducing icons to basic geometric shapes so the user c
 
 <br> </br> <br> </br>
 # Mirror Implementation
-Note: The mirrow is soley focused on the design aspect rather than pratical application, as such dates, weather, health, etc. should not be taken as accurate information.
+Note: The mirror is soley focused on the design aspect rather than pratical application, as such dates, weather, health, etc. should not be taken as accurate information.
 
 <br> </br>
