@@ -20,7 +20,7 @@ Note: The mirror is soley focused on the design aspect rather than pratical appl
 <br> </br>
 ![image](https://user-images.githubusercontent.com/61167088/200420920-38414e7d-5087-44e2-bd6d-7a7e187a57fa.png)
 <br> </br>
-
+![image](https://user-images.githubusercontent.com/61167088/200421636-ade62f8c-09a3-4376-8d0e-2245e181efa6.png)
 <br> </br>
 ![image](https://user-images.githubusercontent.com/61167088/200421085-5ec73889-87e5-47ea-bea5-dcc4c16fea6d.png)
 <br> </br>
