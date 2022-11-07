@@ -28,7 +28,12 @@ Note: The mirror is soley focused on the design aspect rather than pratical appl
 <br> </br>
 ![image](https://user-images.githubusercontent.com/61167088/200421453-950e3610-7afa-4533-abd2-325fe9f43cd2.png)
 <br> </br>
-
+![image](https://user-images.githubusercontent.com/61167088/200421728-da431653-164e-4b45-9197-4724a45489aa.png)
 <br> </br>
 ![IMG_8605 (1) (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/200420378-1fc56b3c-e6f5-4fa2-aa57-84e7ad1c7f4e.gif)
 <br> </br>
+An advance feature of the Mirror is the ability to drag & drop the buttons anywhere in the mirror, similar to that of apps on a smartphone however, there is no grid layout for buttons to snap on as the ability. The buttons are consistent in design as having round edges with simple two colors, the background and the icon, similarly the information layout are the same color of the button pressed.
+<br> </br>
+The tinting of the mirror to make it "fog" helps the contrast of text and mirror, allowing for more readability at the cost of seeing the reflection. The information displayed is in Arial type as it is easier to read on screen and there is enough space to prevent visual clutter for both text and buttons.
+<br> </br>
+Usability for the user is important which is why whenever a user hovers over a button or clicks a white outline appears providing feedback to the user; while not being highlighted like an elevator, it will alleviate confusion between the "fog" and the feedback.
