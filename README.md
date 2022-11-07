@@ -20,11 +20,15 @@ Note: The mirror is soley focused on the design aspect rather than pratical appl
 <br> </br>
 ![image](https://user-images.githubusercontent.com/61167088/200420920-38414e7d-5087-44e2-bd6d-7a7e187a57fa.png)
 <br> </br>
-![IMG_8605 (1) (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/200420378-1fc56b3c-e6f5-4fa2-aa57-84e7ad1c7f4e.gif)
+
 <br> </br>
 ![image](https://user-images.githubusercontent.com/61167088/200421085-5ec73889-87e5-47ea-bea5-dcc4c16fea6d.png)
 <br> </br>
 ![image](https://user-images.githubusercontent.com/61167088/200421249-71e63d6c-7dd2-4053-aa90-372c48af2ea5.png)
 <br> </br>
+![image](https://user-images.githubusercontent.com/61167088/200421453-950e3610-7afa-4533-abd2-325fe9f43cd2.png)
+<br> </br>
 
+<br> </br>
+![IMG_8605 (1) (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/200420378-1fc56b3c-e6f5-4fa2-aa57-84e7ad1c7f4e.gif)
 <br> </br>
