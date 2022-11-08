@@ -13,7 +13,7 @@ A Mirror reflects any person or object and to simulate relfection the text edito
 </br>
 The Sketch is simplistic, reducing icons to basic geometric shapes so the user can see and immediately understand it's purpose. Some General information includes a calender, emails, weather, health, and a clock. Whenever a user clicks on one of the buttons, excluding the clock, a window will pop up displaying the information with the mirror being tinted to help the contrast between text and background. 
 
-<</br> </br>
+</br> </br>
 # Mirror Implementation
 Note: The mirror is soley focused on the design aspect rather than pratical application, as such dates, weather, health, etc. should not be taken as accurate information.
 
